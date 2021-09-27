@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://localhost:5000",
+  "pluginsFile": "node_modules/dd-trace/cypress/plugin"
+}

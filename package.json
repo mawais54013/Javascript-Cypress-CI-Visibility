@@ -1,0 +1,19 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "serve": "npx serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  },
+  "dependencies": {
+    "dd-trace": "^1.4.1"
+  }
+}
