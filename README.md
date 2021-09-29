@@ -22,7 +22,7 @@ DD_ENV=ci npm test
 ```
 <br/>
 Click on run test below when cypress window opens <br/>
-![image](/test.png)
+![image](test.png)
 
 ## Results:
 Should be shown in datadog ci after a couple of minutes:
