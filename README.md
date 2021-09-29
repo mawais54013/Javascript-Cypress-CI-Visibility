@@ -22,6 +22,7 @@ DD_ENV=ci npm test
 ```
 <br/>
 Click on run test below when cypress window opens <br/>
+
 ![image](test.png)
 
 ## Results:
